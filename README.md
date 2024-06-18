@@ -1,0 +1,1 @@
+[![Workflow Testing Stage](https://github.com/rashkov7/softuini_exec_11/actions/workflows/build_test.yml/badge.svg)](https://github.com/rashkov7/softuini_exec_11/actions/workflows/build_test.yml)
