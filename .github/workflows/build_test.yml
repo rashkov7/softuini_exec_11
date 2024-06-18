@@ -25,6 +25,7 @@ jobs:
 
   deploy_render:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' #starting deploy if we trigered from main
     needs: teststage
     steps:
       - name: Deploy to production
